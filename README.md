@@ -6,7 +6,7 @@ _App que reconoce mano y genera un array (Toma de posicion de mano)_
 ### Pre-requisitos 📋
 Intalar OpenCV
 ```
-pip install opencv-contrib-python
+pip install cvzone
 ```
 Instalar Mediapipe
 ```
